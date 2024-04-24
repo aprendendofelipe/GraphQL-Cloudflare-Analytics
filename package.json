@@ -1,0 +1,16 @@
+{
+  "name": "graphql-cloudflare-analytics",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@graphiql/plugin-explorer": "^2.0.0",
+    "@graphiql/toolkit": "^0.9.1",
+    "graphiql": "^3.2.0",
+    "graphql": "^16.8.1",
+    "next": "^14.2.2",
+    "next-auth": "^4.24.7"
+  }
+}
